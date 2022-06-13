@@ -28,7 +28,7 @@ tags: TeXt
 <div align=center><img src="https://raw.githubusercontent.com/YujunCui/YujunCui.github.io/master/assets/images/kalman/3卡尔曼增益公式.png" style="zoom:80%;" /></div>
 
 - 状态更新公式4：
-<div align=center><img src=https://raw.githubusercontent.com/YujunCui/YujunCui.github.io/master/assets/images/kalman/4卡尔曼状态更新公式.png" style="zoom:80%;" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/YujunCui/YujunCui.github.io/master/assets/images/kalman/4卡尔曼状态更新公式.png" style="zoom:80%;" /></div>
 
 - 协方差更新公式5：
 <div align=center><img src="https://raw.githubusercontent.com/YujunCui/YujunCui.github.io/master/assets/images/kalman/5卡尔曼协方差更新公式.png" style="zoom:80%;" /></div>
