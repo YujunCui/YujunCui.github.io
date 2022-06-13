@@ -9,7 +9,7 @@ tags: TeXt
 根据上一个时刻 (k-1 时刻) 的后验估计值来估计当前时刻 (k时刻) 的状态，得到当前时刻 (k时刻) 的先验估计值。 估计的对象有两个，分别是状态和协方差矩阵。
 
 - 状态预测公式1：
-<div align=center><img src="https://github.com/YujunCui/YujunCui.github.io/blob/master/assets/images/kalman/1卡尔曼状态预测公式.png" style="zoom:80%;" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/YujunCui/YujunCui.github.io/master/assets/images/kalman/1%E5%8D%A1%E5%B0%94%E6%9B%BC%E7%8A%B6%E6%80%81%E9%A2%84%E6%B5%8B%E5%85%AC%E5%BC%8F.png" style="zoom:80%;" /></div>
 ​        或者简化为：
 <div align=center><img src="https://github.com/YujunCui/YujunCui.github.io/blob/master/assets/images/kalman/1卡尔曼状态预测公式_简化.png" style="zoom:80%;" /></div>
 
